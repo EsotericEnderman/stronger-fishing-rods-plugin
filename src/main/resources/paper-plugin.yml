@@ -1,0 +1,7 @@
+name: StrongerFishingRods
+version: '${version}'
+main: net.slqmy.strongerfishingrods.StrongerFishingRods
+api-version: '1.20'
+prefix: StrongerFishingRods
+authors: [Slqmy]
+description: Increases the strength of fishing rods.
