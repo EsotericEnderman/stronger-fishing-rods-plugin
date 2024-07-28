@@ -1,4 +1,4 @@
-package net.slqmy.strongerfishingrods.listener;
+package net.slqmy.stronger_fishing_rods_plugin.listener;
 
 import org.bukkit.Bukkit;
 import org.bukkit.Location;

@@ -1,10 +1,11 @@
-package net.slqmy.strongerfishingrods;
+package net.slqmy.stronger_fishing_rods_plugin;
 
-import net.slqmy.strongerfishingrods.listener.FishingRodUseListener;
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
 
-public final class StrongerFishingRods extends JavaPlugin {
+import net.slqmy.stronger_fishing_rods_plugin.listener.FishingRodUseListener;
+
+public final class StrongerFishingRodsPlugin extends JavaPlugin {
 
     @Override
     public void onEnable() {
