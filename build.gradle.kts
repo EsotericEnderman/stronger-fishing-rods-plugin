@@ -34,6 +34,7 @@ tasks {
 bukkitPluginYaml {
   main = project.group.toString() + ".StrongerFishingRodsPlugin"
   load = BukkitPluginYaml.PluginLoadOrder.STARTUP
+  description = "Because hooking your friends with a fishing rod wasn't funny enough already."
   authors.add("Esoteric Enderman")
   apiVersion = paperApiVersion
 }
