@@ -7,7 +7,7 @@ plugins {
   id("xyz.jpenilla.resource-factory-bukkit-convention") version "1.1.1"
 }
 
-group = "net.slqmy.stronger_fishing_rods_plugin"
+group = "dev.esoteric_enderman.stronger_fishing_rods_plugin"
 version = "1.0-SNAPSHOT"
 
 val javaVersion = 21
@@ -34,6 +34,6 @@ tasks {
 bukkitPluginYaml {
   main = project.group.toString() + ".StrongerFishingRodsPlugin"
   load = BukkitPluginYaml.PluginLoadOrder.STARTUP
-  authors.add("Slqmy")
+  authors.add("Esoteric Enderman")
   apiVersion = paperApiVersion
 }

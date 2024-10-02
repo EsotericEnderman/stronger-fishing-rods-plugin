@@ -1,4 +1,4 @@
-package net.slqmy.stronger_fishing_rods_plugin.listener;
+package dev.esoteric_enderman.stronger_fishing_rods_plugin.listener;
 
 import org.bukkit.Location;
 import org.bukkit.entity.Entity;
