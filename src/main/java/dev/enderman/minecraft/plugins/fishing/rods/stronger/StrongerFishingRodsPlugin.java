@@ -1,9 +1,9 @@
-package dev.esoteric_enderman.stronger_fishing_rods_plugin;
+package dev.enderman.minecraft.plugins.fishing.rods.stronger;
 
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
 
-import dev.esoteric_enderman.stronger_fishing_rods_plugin.listener.FishingRodUseListener;
+import dev.enderman.minecraft.plugins.fishing.rods.stronger.event.listeners.FishingRodUseListener;
 
 public final class StrongerFishingRodsPlugin extends JavaPlugin {
 

@@ -1,4 +1,4 @@
-package dev.esoteric_enderman.stronger_fishing_rods_plugin.listener;
+package dev.enderman.minecraft.plugins.fishing.rods.stronger.event.listeners;
 
 import org.bukkit.Location;
 import org.bukkit.entity.Entity;
