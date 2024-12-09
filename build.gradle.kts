@@ -8,7 +8,7 @@ plugins {
 }
 
 group = "dev.enderman"
-version = "1.0-SNAPSHOT"
+version = "1.0.0"
 
 description = "Because hooking your friends with a fishing rod wasn't funny enough already."
 
