@@ -1,5 +1,7 @@
 # Stronger Fishing Rods Plugin
 
+[![Project Status: Completed](./assets/images/badges/status.svg)](./)
+
 > Because hooking your friends with a fishing rod wasn't funny enough already.
 
 ## License
